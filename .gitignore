@@ -1,0 +1,5 @@
+acme-challenge/*
+acme-home/*
+certs/*
+nginx/*
+domain.list
